@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .column {
+    width: 50%;
+}
+
+.container .menuitem {
+    width: calc(33% - 10px);
+    padding: 5px;
+}
+
+.container .menuitem div {
+    background-color: #fff8e0;
+    padding: 20px 10px 10px;
+    height: 90px;
+}
+
+.container .menuitem div p {
+    padding: 10px 0 0;
+}
+
+@media only screen and (max-width: 414px) { 
+    .container .column {
+        width: 100%;
+    }
+}
+
+.banner {
+    height: 230px;
+}
+
+/* background-image: url('../assets/AdobeStock_380729906.jpg'); */
+.bannerimage {
+    height: 180px;
+    background-image: url('../assets/christmas_2012_new_6459.jpg');
+    background-size: cover;
+    background-position: 0;
+}
+
+.banner p {
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+
+.banner p.attribution {
+    line-height: 10px;
+    font-size:6px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    color: #ccc;
+}

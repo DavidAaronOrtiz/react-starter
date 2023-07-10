@@ -1,0 +1,32 @@
+.header {
+    line-height: 24px;
+    font-size: 20px;
+    background: #dde6e1;
+    margin: 10px 0 0;
+    padding: 10px 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .column {
+    width: calc(50% - 20px);
+    padding: 10px;
+}
+
+.container .column div {
+    padding: 20px 10px 10px;
+    background-color: #fff8e0;
+    height: 50px;
+}
+
+.container .menuitem p {
+    margin: 0;
+    padding: 4px 0 0;
+}
+
+.container .menuitem .title {
+    padding: 10px 0 0;
+}

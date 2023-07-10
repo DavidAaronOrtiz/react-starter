@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .column {
+    width: 50%;
+    text-align: right;
+}
+
+.container .column:first-child {
+    text-align: left;
+}
+
+.item {
+    border-bottom: 1px solid #e0dcd1;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: left;
+}
