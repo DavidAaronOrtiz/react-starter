@@ -1,6 +1,17 @@
 # Project Goal
 
-Create a starting react project and ask details from candidates on how the would implement functionalities in the application as it grows into a bigger application.
+Create a starting react project and ask details from candidates on how they would implement functionalities in the application as it grows into a bigger application.
+
+Requirements:
+- This will be a hybrid mobile app.
+- Capture photo, file upload, and biometrics are some of the key native features needed in the app.
+- This will have real-time/near real-time transactions that will be needed to update different modules in the app.
+
+
+
+See App Abstract folder for the app to be built.
+
+
 
 # Getting Started with Create React App
 
