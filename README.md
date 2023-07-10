@@ -1,3 +1,7 @@
+# Project Goal
+
+Create a starting react project and ask details from candidates on how the would implement functionalities in the application as it grows into a bigger application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
