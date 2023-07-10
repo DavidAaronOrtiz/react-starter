@@ -1,6 +1,6 @@
 # Project Goal
 
-Create a starting react project and ask details from candidates on how they would implement functionalities in the application as it grows into a bigger application.
+Create a starting react project and ask details from candidates on how they would improve and implement functionalities in the application as it grows into a bigger application.
 
 Requirements:
 - This will be a hybrid mobile app.
