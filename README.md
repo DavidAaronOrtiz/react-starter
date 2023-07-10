@@ -4,6 +4,7 @@ Create a starting react project and ask details from candidates on how they woul
 
 Requirements:
 - This will be a hybrid mobile app.
+- There will also be a web app version with a slightly different UI. Same feature set.
 - Capture photo, file upload, and biometrics are some of the key native features needed in the app.
 - This will have real-time/near real-time transactions that will be needed to update different modules in the app.
 - Security featues: Login, idle session logout.
