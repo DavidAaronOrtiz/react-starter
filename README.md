@@ -6,7 +6,8 @@ Requirements:
 - This will be a hybrid mobile app.
 - Capture photo, file upload, and biometrics are some of the key native features needed in the app.
 - This will have real-time/near real-time transactions that will be needed to update different modules in the app.
-- Security featues: Login, idle session logout
+- Security featues: Login, idle session logout.
+- There will be modules that would be of substantial size. e.g. Policies have a multitude of information that can be grouped and have their own sub-modules.
 
 
 
